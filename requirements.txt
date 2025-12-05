@@ -1,0 +1,7 @@
+numpy
+matplotlib
+imageio
+Pillow
+# rasterio often requires system dependencies; prefer installing with conda
+# If using pip, try: pip install rasterio (may require wheels)
+rasterio
